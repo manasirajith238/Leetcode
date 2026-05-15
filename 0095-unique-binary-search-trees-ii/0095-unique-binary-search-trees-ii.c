@@ -1,0 +1,84 @@
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     struct TreeNode *left;
+ *     struct TreeNode *right;
+ * };
+ */
+/**
+ * Note: The returned array must be malloced, assume caller calls free().
+ */
+struct TreeNode** build(int start, int end, int* returnSize) {
+
+    if (start > end) {
+
+        struct TreeNode** list =
+            malloc(sizeof(struct TreeNode*));
+
+        list[0] = NULL;
+
+        *returnSize = 1;
+
+        return list;
+    }
+
+    int capacity = 100;
+
+    struct TreeNode** result =
+        malloc(capacity * sizeof(struct TreeNode*));
+
+    *returnSize = 0;
+
+    for (int i = start; i <= end; i++) {
+
+        int leftSize, rightSize;
+
+        struct TreeNode** leftTrees =
+            build(start, i - 1, &leftSize);
+
+        struct TreeNode** rightTrees =
+            build(i + 1, end, &rightSize);
+
+        for (int l = 0; l < leftSize; l++) {
+
+            for (int r = 0; r < rightSize; r++) {
+
+                if (*returnSize >= capacity) {
+
+                    capacity *= 2;
+
+                    result = realloc(result,
+                             capacity * sizeof(struct TreeNode*));
+                }
+
+                struct TreeNode* root =
+                    malloc(sizeof(struct TreeNode));
+
+                root->val = i;
+
+                root->left = leftTrees[l];
+
+                root->right = rightTrees[r];
+
+                result[*returnSize] = root;
+
+                (*returnSize)++;
+            }
+        }
+    }
+
+    return result;
+}
+
+struct TreeNode** generateTrees(int n, int* returnSize) {
+
+    if (n == 0) {
+
+        *returnSize = 0;
+
+        return NULL;
+    }
+
+    return build(1, n, returnSize);
+}
