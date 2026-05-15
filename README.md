@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/manasirajith238/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0118-pascals-triangle](https://github.com/manasirajith238/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/manasirajith238/Leetcode/tree/master/0119-pascals-triangle-ii) |
 ## Stack
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/manasirajith238/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0102-binary-tree-level-order-traversal](https://github.com/manasirajith238/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/manasirajith238/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/manasirajith238/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/manasirajith238/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0102-binary-tree-level-order-traversal](https://github.com/manasirajith238/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/manasirajith238/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/manasirajith238/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -67,5 +70,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/manasirajith238/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/manasirajith238/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Backtracking
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/manasirajith238/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
