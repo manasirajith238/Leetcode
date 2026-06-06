@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/manasirajith238/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/manasirajith238/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/manasirajith238/Leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/manasirajith238/Leetcode/tree/master/0169-majority-element) |
 | [0303-range-sum-query-immutable](https://github.com/manasirajith238/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/manasirajith238/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/manasirajith238/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/manasirajith238/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/manasirajith238/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0160-intersection-of-two-linked-lists](https://github.com/manasirajith238/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/manasirajith238/Leetcode/tree/master/0169-majority-element) |
 | [0525-contiguous-array](https://github.com/manasirajith238/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/manasirajith238/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/manasirajith238/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/manasirajith238/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0169-majority-element](https://github.com/manasirajith238/Leetcode/tree/master/0169-majority-element) |
 ## Design
 |  |
 | ------- |
@@ -121,4 +124,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/manasirajith238/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/manasirajith238/Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/manasirajith238/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
