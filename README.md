@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/manasirajith238/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/manasirajith238/Leetcode/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/manasirajith238/Leetcode/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/manasirajith238/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/manasirajith238/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/manasirajith238/Leetcode/tree/master/0015-3sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/manasirajith238/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/manasirajith238/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -150,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/manasirajith238/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/manasirajith238/Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
