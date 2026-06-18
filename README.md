@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/manasirajith238/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/manasirajith238/Leetcode/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/manasirajith238/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/manasirajith238/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/manasirajith238/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/manasirajith238/Leetcode/tree/master/0118-pascals-triangle) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/manasirajith238/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/manasirajith238/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/manasirajith238/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Breadth-First Search
