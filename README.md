@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/manasirajith238/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/manasirajith238/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/manasirajith238/Leetcode/tree/master/0125-valid-palindrome) |
+| [1763-longest-nice-substring](https://github.com/manasirajith238/Leetcode/tree/master/1763-longest-nice-substring) |
 ## Array
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/manasirajith238/Leetcode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/manasirajith238/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [1763-longest-nice-substring](https://github.com/manasirajith238/Leetcode/tree/master/1763-longest-nice-substring) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -124,12 +126,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/manasirajith238/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/manasirajith238/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/manasirajith238/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [1763-longest-nice-substring](https://github.com/manasirajith238/Leetcode/tree/master/1763-longest-nice-substring) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/manasirajith238/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/manasirajith238/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/manasirajith238/Leetcode/tree/master/0169-majority-element) |
+| [1763-longest-nice-substring](https://github.com/manasirajith238/Leetcode/tree/master/1763-longest-nice-substring) |
 ## Design
 |  |
 | ------- |
@@ -167,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/manasirajith238/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/manasirajith238/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1652-defuse-the-bomb](https://github.com/manasirajith238/Leetcode/tree/master/1652-defuse-the-bomb) |
+| [1763-longest-nice-substring](https://github.com/manasirajith238/Leetcode/tree/master/1763-longest-nice-substring) |
 ## Queue
 |  |
 | ------- |
