@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/manasirajith238/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/manasirajith238/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/manasirajith238/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/manasirajith238/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/manasirajith238/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/manasirajith238/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/manasirajith238/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/manasirajith238/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Queue
 |  |
 | ------- |
