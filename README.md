@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/manasirajith238/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/manasirajith238/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/manasirajith238/Leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/manasirajith238/Leetcode/tree/master/0016-3sum-closest) |
 | [0125-valid-palindrome](https://github.com/manasirajith238/Leetcode/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/manasirajith238/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/manasirajith238/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/manasirajith238/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/manasirajith238/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/manasirajith238/Leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/manasirajith238/Leetcode/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/manasirajith238/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/manasirajith238/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/manasirajith238/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/manasirajith238/Leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/manasirajith238/Leetcode/tree/master/0016-3sum-closest) |
 | [0169-majority-element](https://github.com/manasirajith238/Leetcode/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/manasirajith238/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 ## Counting
