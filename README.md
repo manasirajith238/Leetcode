@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/manasirajith238/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/manasirajith238/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/manasirajith238/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/manasirajith238/Leetcode/tree/master/0645-set-mismatch) |
 | [1470-shuffle-the-array](https://github.com/manasirajith238/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1652-defuse-the-bomb](https://github.com/manasirajith238/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [1929-concatenation-of-array](https://github.com/manasirajith238/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/manasirajith238/Leetcode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/manasirajith238/Leetcode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/manasirajith238/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0645-set-mismatch](https://github.com/manasirajith238/Leetcode/tree/master/0645-set-mismatch) |
 | [1763-longest-nice-substring](https://github.com/manasirajith238/Leetcode/tree/master/1763-longest-nice-substring) |
 ## Dynamic Programming
 |  |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/manasirajith238/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/manasirajith238/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/manasirajith238/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0645-set-mismatch](https://github.com/manasirajith238/Leetcode/tree/master/0645-set-mismatch) |
 | [1763-longest-nice-substring](https://github.com/manasirajith238/Leetcode/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/manasirajith238/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Divide and Conquer
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/manasirajith238/Leetcode/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/manasirajith238/Leetcode/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/manasirajith238/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0645-set-mismatch](https://github.com/manasirajith238/Leetcode/tree/master/0645-set-mismatch) |
 ## Counting
 |  |
 | ------- |
