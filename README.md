@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/manasirajith238/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/manasirajith238/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/manasirajith238/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1470-shuffle-the-array](https://github.com/manasirajith238/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1652-defuse-the-bomb](https://github.com/manasirajith238/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [1929-concatenation-of-array](https://github.com/manasirajith238/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Bit Manipulation
